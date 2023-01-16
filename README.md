@@ -14,4 +14,4 @@ This project is a machine learning model to classify breast cancer as benign or 
 
 ## Usage
 
-clone this repository and run the `fff` notebook file to begin model training 
+clone this repository and run the `Breast Cancer Classifier.ipynb` notebook file to begin model building and training 
